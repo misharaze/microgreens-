@@ -1,0 +1,27 @@
+.form {
+    padding: 4rem 2rem;
+    background: #fff;
+    text-align: center;
+  }
+  .form input, .form textarea {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    margin: 1rem auto;
+    padding: 0.8rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  .form button {
+    padding: 0.8rem 2rem;
+    background: #56ab2f;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  .form button:hover {
+    background: #4a9529;
+  }
+  

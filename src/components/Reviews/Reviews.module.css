@@ -1,0 +1,17 @@
+.reviews {
+    padding: 4rem 2rem;
+    background: #fff;
+    text-align: center;
+  }
+  .reviews h2 {
+    margin-bottom: 1.5rem;
+  }
+  .reviews blockquote {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  .reviews cite {
+    font-size: 1rem;
+    color: #666;
+  }
